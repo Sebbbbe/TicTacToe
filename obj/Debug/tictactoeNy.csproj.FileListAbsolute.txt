@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\bin\Debug\tictactoeNy.exe.config
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\bin\Debug\tictactoeNy.exe
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\bin\Debug\tictactoeNy.pdb
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\obj\Debug\tictactoeNy.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\obj\Debug\tictactoeNy.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\obj\Debug\tictactoeNy.exe
+C:\Users\sebas\source\repos\tictactoeNy\tictactoeNy\obj\Debug\tictactoeNy.pdb
